@@ -4,9 +4,7 @@
 
 Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [GitHub public feedback discussions](https://github.com/github/feedback/discussions). 
 
-[^1]:We've adopted the latest [beta features of GitHub projects](https://github.com/features/issues) for the [public roadmap](https://github.com/orgs/github/projects/4247). The [roadmap project board](https://github.com/github/roadmap/projects/1) within this repository is now closed. 
-
-The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [general feedback in GitHub public feedback discussions](https://github.com/github/feedback/discussions/new?category=General-Feedback&title=[Public%20roadmap]%20).
+The roadmap repository is for communicating GitHub’s roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from GitHub. We’re planning to iterate on the format of the roadmap itself, and we see potential to engage more in discussions about the future of GitHub products and features. If you have feedback about this roadmap repository itself, such as how the issues are presented, let us know through [general feedback in GitHub public feedback discussions](https://github.com/orgs/community/discussions/new?category=general).
 
 
 ## Guide to the roadmap
@@ -29,14 +27,11 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 Release phases indicate the stages that the product or feature goes through, from early testing to general availability.
 
-- **alpha:** *Primarily for testing and feedback*\
-Limited availability, requires pre-release agreement. Features still under heavy development, and subject to change. Not for production use, and no documentation, SLAs or support provided.
-
-- **beta:** *Publicly available in full or limited capacity*\
+- **preview:** *Publicly available in full or limited capacity*\
 Features mostly complete and documented. Timeline and requirements for GA usually published. No SLAs or support provided.
 
 - **ga:** *Generally available to all customers*\
-Ready for production use with associated SLA and technical support obligations. Approximately 1-2 quarters from Beta.
+Ready for production use with associated SLA and technical support obligations. Approximately 1-2 quarters from Preview.
 
 Some of our features may still be in the exploratory stages, and have no timeframe available. These are included in the roadmap only for early feedback. These are marked as follows: 
 
@@ -53,10 +48,10 @@ Some features may be marked with a GHES 3.X label, which indicates that the feat
 **GHES release version dates**:
 | **Version Number** | **Release Quarter** | **Release Notes** |
 |-|-|-|
-| 3.5 | Q2 2022 | [Release Notes](https://docs.github.com/en/enterprise-server@3.5/admin/release-notes) |
-| 3.6 | Q3 2022 | [Release Notes](https://docs.github.com/en/enterprise-server@3.6/admin/release-notes) |
-| 3.7 | Q4 2022 | - |
-| 3.8 | Q1 2023 | - |
+| 3.12 | Q1 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.12/admin/release-notes#3.12.0)|
+| 3.13 | Q2 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.13/admin/release-notes#3.13.0)|
+| 3.14 | Q3 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.14/admin/release-notes) |
+| 3.15 | Q4 2024 | -- |
 
 ## Roadmap stages
 
